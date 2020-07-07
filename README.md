@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a reduced boilerplate for [Create React App](https://github.com/facebook/create-react-app). In this repo, you will find everything from Create React App except for the logos, favicon, and test files. If you need those, I recommend you use ```npx create-react-app your-app-name```. Below is info on the npm scripts of Create React App.
 
 ## Available Scripts
 
